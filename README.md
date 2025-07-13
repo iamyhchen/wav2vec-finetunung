@@ -26,6 +26,7 @@ Example format:
 }
 ```
 2. `dataset`
+
 Prepare your dataset in the following structure:
 ```
 dataset/
